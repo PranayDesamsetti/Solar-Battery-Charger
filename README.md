@@ -1,7 +1,7 @@
 # Solar-Battery-Charger
 
 ![Screenshot 2023-09-09 200152](https://github.com/PranayDesamsetti/Solar-Battery-Charger/assets/126604281/3e01a2cb-e83b-4b3f-9b05-e04859f19e12)
-![Solar Battery Charger](images/solar_battery_charger.jpg)
+![Solar Battery Charger](![Screenshot 2023-09-09 200152](https://github.com/PranayDesamsetti/Solar-Battery-Charger/assets/126604281/3e01a2cb-e83b-4b3f-9b05-e04859f19e12))
 
 ## Overview
 
